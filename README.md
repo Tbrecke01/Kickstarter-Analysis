@@ -9,7 +9,7 @@ The purpose of this project was to analyze data from kickstarter campaigns from 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Theater Outcomes vs Launch Graph](Kickstarter-Analysis/Theater_Outcomes_vs_Launch.png)
 As shown in the accompanying graph, the highest likelyhood of succesfully kickstarting a theater production is to launch it in the months of June, July or August with a very steep dropoff ocurring in September. July is the most likely start-month for a play to succeed with ~66% of theater productions suceeding in this month. By contrast, January is by far the worst month to launch a new theater kickstarter with 50% of all such projects either failing or beig cancelled.
 
 ### Analysis of Outcomes Based on Goals
