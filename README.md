@@ -14,8 +14,9 @@ The purpose of this project was to analyze data from kickstarter campaigns from 
 As shown in the above graph, the highest likelyhood of succesfully kickstarting a theater production is to launch it in the months of June, July or August with a very steep dropoff ocurring in September. July is the most likely start-month for a play to succeed with ~66% of theater productions suceeding in this month. By contrast, January is by far the worst month to launch a new theater kickstarter with 50% of all such projects either failing or beig cancelled.
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals Graph](https://github.com/Tbrecke01/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
-As shown in the accompanying graph, the highest likelyhood (upwards of 70%) of a play suceeding are when their goals are below $10,000. Once a theater productions kickstarted goal exceeds $10,000 there is a nearly 20% drop in it's likelyhood of suceeding and this number continues to gradually fall, with theater kickstarters being more likely to fail to succeed once their goal exceeds $20,000. Once a plays goal exceeds $30,000 there is another steep dropoff where the likelyhood of sucess falls to sub 30%.
+As shown in the above graph, the highest likelyhood (upwards of 70%) of a play suceeding are when their goals are below $10,000. Once a theater productions kickstarted goal exceeds $10,000 there is a nearly 20% drop in it's likelyhood of suceeding and this number continues to gradually fall, with theater kickstarters being more likely to fail to succeed once their goal exceeds $20,000. Once a plays goal exceeds $30,000 there is another steep dropoff where the likelyhood of sucess falls to sub 30%.
 
 It is worth acknowledging that there appears to be an uptick in succesful kickstarters whose goals are between $35,000 and $44999. These were determined to be outliers, and the uptick in success more closely attributed to the presence of notable playwrites and actors sponsoring the kickstarter than anything else. If you do not fall into the category of notable playwrite or actor, this shouldn't be considered.
 
